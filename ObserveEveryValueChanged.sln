@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserveEveryValueChanged", "ObserveEveryValueChanged\ObserveEveryValueChanged.csproj", "{C79C1354-840B-4070-842C-879E4705131C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroidSample", "DroidSample\DroidSample.csproj", "{C89C33A5-C07D-404C-BC14-7C9553D3C8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C79C1354-840B-4070-842C-879E4705131C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79C1354-840B-4070-842C-879E4705131C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79C1354-840B-4070-842C-879E4705131C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79C1354-840B-4070-842C-879E4705131C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89C33A5-C07D-404C-BC14-7C9553D3C8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89C33A5-C07D-404C-BC14-7C9553D3C8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89C33A5-C07D-404C-BC14-7C9553D3C8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89C33A5-C07D-404C-BC14-7C9553D3C8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
